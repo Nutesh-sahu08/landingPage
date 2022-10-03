@@ -1,0 +1,66 @@
+.main-h-screen{
+    min-height: 100vh;
+    
+    
+}
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+
+}
+.flex{
+    display: flex;
+    padding: 20px;
+}
+.items-center{
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-center
+{
+    justify-content: center;
+}
+.font-bold{
+    font-weight: bolder;
+
+}
+
+.text-blue{
+    color:rgb(60, 144, 240)
+}
+
+.btn{
+    padding: 4px 12px;
+    border: 2px solid black;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(60, 144, 240);
+    border-radius: 12px;
+}
+
+.text-center{
+    text-align: center;
+    font-size: 1.2rem;
+    padding-top: 53px;
+}
+
+.lorem2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 0;
+    padding-right: 1rem;
+}
+
+.section3
+{
+    padding: 50pxx;
+}
